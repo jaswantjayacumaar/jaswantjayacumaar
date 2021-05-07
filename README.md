@@ -1,6 +1,8 @@
-Hi there, I’m Jaswant Jayacumaar (@jaswantjayacumaar) 👋
-- ⚡ I’m currently working on Gravitational Waves - "[Use of Deep Learning to Classify Lensed and Unlensed Gravitational Waves](https://jaswantjayacumaar.wixsite.com/website/res-astrn-and-astrph-classify-gw-dl)", as a researcher at Bose.X Center for Astrophysical Research, Surat, India
-- 🚀 Technical Skills: Programming - Python, MATLAB, RStudio & Analysis & CAD - Weka, SolidWorks, ANSYS Fluent
+Hi there, I’m Jaswant Jayacumaar 👋
+- ⚡ I’m currently working on Gravitational Waves - [Use of Deep Learning to Classify Lensed and Unlensed Gravitational Waves](https://jaswantjayacumaar.wixsite.com/website/res-astrn-and-astrph-classify-gw-dl), as a researcher at Bose.X Center for Astrophysical Research, Surat, India.
+- 🎯 Planning to pursue a Master's Degree in Astronomy and Astrophysics.
+- 📚 I hold a Bachelor's degree in Mechanical Engineering from Vellore Institute of Technology, India. [Click here](https://jaswantjayacumaar.wixsite.com/website/mechanical-engineering) to know more about the projects I completed during my Bachelor's degree.
+- 🚀 **Technical Skills**: *Programming* - Python, MATLAB, RStudio & *Analysis & CAD* - Weka, SolidWorks, ANSYS Fluent
 
 ### Connect with me:
 [<img align="left" alt="jaswantjayacumaar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jaswantjayacumaar.wixsite.com/website)
