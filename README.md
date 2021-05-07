@@ -1,8 +1,12 @@
-👋 Hi, I’m Jaswant Jayacumaar (@jaswantjayacumaar)
-- ⚡ I’m currently working on Gravitational Waves - "Use of Deep Learning to Classify Lensed and Unlensed Gravitational Waves", as a researcher at Bose.X Center for Astrophysical Research, Surat, India
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there, I’m Jaswant Jayacumaar (@jaswantjayacumaar) 👋
+- ⚡ I’m currently working on Gravitational Waves - "[Use of Deep Learning to Classify Lensed and Unlensed Gravitational Waves](https://jaswantjayacumaar.wixsite.com/website/res-astrn-and-astrph-classify-gw-dl)", as a researcher at Bose.X Center for Astrophysical Research, Surat, India
+- 🚀 Technical Skills: Programming - Python, MATLAB, RStudio & Analysis & CAD - Weka, SolidWorks, ANSYS Fluent
+
+### Connect with me:
+[<img align="left" alt="jaswantjayacumaar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jaswantjayacumaar.wixsite.com/website)
+[<img align="left" alt="jaswantjayacumaar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jaswantjayacumaar/)
+[<img align="left" alt="jaswantjayacumaar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jaswantjaya7668)
+[<img align="left" alt="jaswantjayacumaar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jaswant_jayacumaar)
 
 <!---
 jaswantjayacumaar/jaswantjayacumaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
