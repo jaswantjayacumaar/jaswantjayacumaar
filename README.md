@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaswant Jayacumaar
 
-Detail-oriented Data Analyst with a strong foundation in **Python**, **data analysis**, and **visualization**. I enjoy exploring complex datasets, building analysis pipelines, and delivering actionable insights. I'm currently seeking **entry-level data analyst roles**, while expanding my skills in **PowerBI**, **SQL**, and **data storytelling**. I use GitHub to share academic work, personal projects, and data-driven explorations.
+Detail-oriented Data Analyst with a strong foundation in **Python**, **data analysis**, and **visualization**. I enjoy exploring complex datasets, building analysis pipelines, and delivering actionable insights. I'm currently seeking **entry-level data analyst roles**, while expanding my skills in PowerBI, SQL, and data storytelling. I use GitHub to share academic work, personal projects, and data-driven explorations.
 
 ---
 
