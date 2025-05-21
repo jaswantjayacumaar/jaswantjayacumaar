@@ -4,7 +4,7 @@ Detail-oriented Data Analyst with a strong foundation in **Python**, **data anal
 
 ---
 
-## 🧰 Skills & Tools
+## 🛠️ Languages and Tools
 
 **Languages & Libraries:**  Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow)
 
@@ -13,6 +13,18 @@ Detail-oriented Data Analyst with a strong foundation in **Python**, **data anal
 **Development & Environments:**  Jupyter Notebook, VS Code, Git, GitHub, Linux
 
 **Core Skills:**  Data Wrangling • EDA • Predictive Modeling • Visualisation • Statistical Analysis • Process Mining
+
+<br>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter" />
+</p>
+
+<hr>
 
 ---
 
@@ -42,3 +54,16 @@ Deep learning project using CNNs and TensorFlow to classify lensed vs. unlensed 
 ## 📬 Let's Connect
 
 Feel free to reach out via [email](mailto:jaswj6@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/jaswantjayacumaar) or explore more of my work here on GitHub.
+
+<br>
+
+<div align="center">
+  <a href="jaswj6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/jaswantjayacumaar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
