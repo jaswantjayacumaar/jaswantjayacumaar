@@ -1,16 +1,44 @@
-Hi there, I’m Jaswant Jayacumaar 👋
-- ⚡ I’m currently working on Gravitational Waves - [Use of Deep Learning to Classify Lensed and Unlensed Gravitational Waves](https://jaswantjayacumaar.wixsite.com/website/res-astrn-and-astrph-classify-gw-dl), as a researcher at Bose.X Center for Astrophysical Research, Surat, India.
-- 🎯 Planning to pursue a Master's Degree in Astronomy and Astrophysics.
-- 📚 I hold a Bachelor's degree in Mechanical Engineering from Vellore Institute of Technology, India. [Click here](https://jaswantjayacumaar.wixsite.com/website/mechanical-engineering) to know more about the projects I completed during my Bachelor's degree.
-- 🚀 **Technical Skills**: *Programming* - Python, MATLAB, RStudio & *Analysis & CAD* - Weka, SolidWorks, ANSYS Fluent
+# 👋 Hi, I'm Jaswant Jayacumaar
 
-### Connect with me:
-[<img align="left" alt="jaswantjayacumaar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jaswantjayacumaar.wixsite.com/website)
-[<img align="left" alt="jaswantjayacumaar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jaswantjayacumaar/)
-[<img align="left" alt="jaswantjayacumaar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jaswantjaya7668)
-[<img align="left" alt="jaswantjayacumaar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jaswant_jayacumaar)
+Detail-oriented Data Analyst with a strong foundation in **Python**, **data analysis**, and **visualization**. I enjoy exploring complex datasets, building analysis pipelines, and delivering actionable insights. I'm currently seeking **entry-level data analyst roles**, while expanding my skills in **PowerBI**, **SQL**, and **data storytelling**. I use GitHub to share academic work, personal projects, and data-driven explorations.
 
-<!---
-jaswantjayacumaar/jaswantjayacumaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧰 Skills & Tools
+
+**Languages & Libraries:**  Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow)
+
+**Analytics & Visualisation:**  Power BI, MS Excel, Celonis
+
+**Development & Environments:**  Jupyter Notebook, VS Code, Git, GitHub, Linux
+
+**Core Skills:**  Data Wrangling • EDA • Predictive Modeling • Visualisation • Statistical Analysis • Process Mining
+
+---
+
+## 📂 Featured Projects
+
+### 🔬 [Pulsar Timing Analysis](https://github.com/jaswantjayacumaar/Pulsar-Timing-MeerKAT)  
+Python-based analysis of 500+ pulsars using MCMC, waveform fitting, and automated EDA to explore timing residuals and trends.
+
+### ⚽ [Fantasy Football Forecast Tool](https://github.com/jaswantjayacumaar/Fantasy-Football-Forecast-Tool)  
+Machine learning pipeline to predict player performance using multiple classification models and historical data.
+
+### 🌌 [Gravitational Wave Signal Classification](https://github.com/jaswantjayacumaar/Classyfying-LensGW-DL)  
+Deep learning project using CNNs and TensorFlow to classify lensed vs. unlensed gravitational wave signals based on simulated waveforms. Developed and validated models with PyCBC data, focusing on preprocessing, tuning, and cross-detector performance testing.
+
+
+---
+
+## 📈 What I'm Currently Doing
+
+- 🎯 Looking for entry-level data analyst roles  
+- 🛠 Uploading and modularising personal & academic projects  
+- 📖 Exploring Power BI and SQL for dashboarding & querying  
+- 🌱 Learning more about data storytelling  
+
+---
+
+## 📬 Let's Connect
+
+Feel free to reach out via [email](mailto:jaswj6@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/jaswantjayacumaar) or explore more of my work here on GitHub.
