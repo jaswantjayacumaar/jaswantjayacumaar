@@ -25,7 +25,6 @@ Detail-oriented Data Analyst with a strong foundation in **Python**, **data anal
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="40" alt="LaTeX" />
 </p>
 
-<hr>
 
 ---
 
