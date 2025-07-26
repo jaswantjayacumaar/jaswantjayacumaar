@@ -1,16 +1,22 @@
 # 👋 Hi, I'm Jaswant Jayacumaar
 
-Detail-oriented Data Analyst with a strong foundation in **Python**, **data analysis**, and **visualization**. I enjoy exploring complex datasets, building analysis pipelines, and delivering actionable insights. I'm currently seeking **entry-level data analyst roles**, while expanding my skills in PowerBI, SQL, and data storytelling. I use GitHub to share academic work, personal projects, and data-driven explorations.
+Detail-oriented Data Analyst with a strong foundation in **Python**, **data analysis**, and **visualization**. I enjoy exploring complex datasets, building analysis pipelines, and delivering actionable insights. I'm currently seeking **data analyst/scientist roles**, while expanding my skills in SQL and data storytelling. I use GitHub to share academic work, personal projects, and data-driven explorations.
 
 ---
 
 ## 🛠️ Languages and Tools
 
-**Languages & Libraries:**  Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow)
+**Languages & Libraries:**  Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, LightGBM), SQL
 
-**Analytics & Visualisation:**  Power BI, MS Excel, Celonis
+**Data Engineering:**	ETL workflows, Data preprocessing, Automation, Feature scaling
 
-**Development & Environments:**  Jupyter Notebook, VS Code, Git, GitHub, Linux
+**Development Tools:** 	VS Code, Jupyter Notebook
+
+**Analytics & Visualisation:**  Power BI, MS Excel, Google Sheets, Celonis
+
+**Version Control:** 	Git, GitHub
+
+**Development & Environments:**  Linux(Ubuntu), Windows
 
 **Core Skills:**  Data Wrangling • EDA • Predictive Modeling • Visualisation • Statistical Analysis • Process Mining
 
@@ -23,6 +29,7 @@ Detail-oriented Data Analyst with a strong foundation in **Python**, **data anal
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="40" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="Power BI" />
 </p>
 
 
@@ -33,21 +40,15 @@ Detail-oriented Data Analyst with a strong foundation in **Python**, **data anal
 ### 🔬 [Pulsar Timing Analysis](https://github.com/jaswantjayacumaar/Pulsar-Timing-MeerKAT)  
 Python-based analysis of 500+ pulsars using MCMC, waveform fitting, and automated EDA to explore timing residuals and trends.
 
+### 🌴 [PowerBI Project - Plant Co.](https://github.com/jaswantjayacumaar/PowerBI-Plant_Co)
+Designed an interactive Plant Co. Performance Dashboard using Power BI, employing diverse plots and DAX queries to analyse sales trends, optimize profitability, and provide actionable insights for data-driven decisions
+
 ### ⚽ [Fantasy Football Forecast Tool](https://github.com/jaswantjayacumaar/Fantasy-Football-Forecast-Tool)  
 Machine learning pipeline to predict player performance using multiple classification models and historical data.
 
 ### 🌌 [Gravitational Wave Signal Classification](https://github.com/jaswantjayacumaar/Classyfying-LensGW-DL)  
 Deep learning project using CNNs and TensorFlow to classify lensed vs. unlensed gravitational wave signals based on simulated waveforms. Developed and validated models with PyCBC data, focusing on preprocessing, tuning, and cross-detector performance testing.
 
-
----
-
-## 📈 What I'm Currently Doing
-
-- 🎯 Looking for entry-level data analyst roles  
-- 🛠 Uploading and modularising personal & academic projects  
-- 📖 Exploring Power BI and SQL for dashboarding & querying  
-- 🌱 Learning more about data storytelling  
 
 ---
 
