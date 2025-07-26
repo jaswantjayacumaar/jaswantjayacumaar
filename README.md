@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaswant Jayacumaar
 
-Detail-oriented Data Analyst with a strong foundation in **Python**, **data analysis**, and **visualization**. I enjoy exploring complex datasets, building analysis pipelines, and delivering actionable insights. I'm currently seeking **data analyst/scientist roles**, while expanding my skills in SQL and data storytelling. I use GitHub to share academic work, personal projects, and data-driven explorations.
+Detail-oriented Data Analyst skilled in Python (Pandas, NumPy) and SQL for building and maintaining data pipelines, executing ETL workflows, and ensuring data quality. Proficient in data visualization using Power BI software for interactive dashboards and the Matplotlib package for custom plots to support data-driven decisions. I also bring hands-on expertise with Linux, VS Code, and Git for efficient development and version control. Trained in collaborating with cross-functional teams to deliver actionable insights to diverse stakeholders, meeting client needs. Possesses an engineering mindset with a strong ability to balance conflicting priorities, ensuring high quality outcomes through teamwork and analytical problem-solving.
 
 ---
 
